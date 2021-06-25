@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:15:49.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Amvm9yOXtwWqTNs0xOAP" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T07:19:34.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3DRB9nkyrQWYCDH1zpk1" version="14.8.1" type="github">
   <diagram id="I2_IZlxrCPJmqtHngIZY" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,8 +180,8 @@
         </mxCell>
         <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-16" value="开始任务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.8;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="503" y="1119.8899999999999" as="sourcePoint" />
-            <mxPoint x="680" y="1119.9" as="targetPoint" />
+            <mxPoint x="503" y="1139.9999999999998" as="sourcePoint" />
+            <mxPoint x="680" y="1140.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-17" value="HCIOpenPlatform" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
@@ -190,18 +190,18 @@
         <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="895" y="1130" width="10" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-19" value="任务开始事件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.1;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-8" target="Y1Lq8l-1mmM8_-CoOzVK-18">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-19" value="任务开始事件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.1;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="700" y="1133" as="sourcePoint" />
-            <mxPoint x="890" y="1134" as="targetPoint" />
+            <mxPoint x="684.5" y="1156.04" as="sourcePoint" />
+            <mxPoint x="894" y="1156.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-20" value="创建环境" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-20" value="创建环境" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.2;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-18">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="905" y="1154" as="sourcePoint" />
             <mxPoint x="905" y="1225" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="966" y="1154" />
+              <mxPoint x="966" y="1160" />
               <mxPoint x="966" y="1227" />
             </Array>
           </mxGeometry>
@@ -267,9 +267,9 @@
             <mxPoint x="690" y="1509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-38" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-11">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-38" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="1270" as="sourcePoint" />
+            <mxPoint x="890" y="1528" as="sourcePoint" />
             <mxPoint x="500" y="1528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -304,7 +304,7 @@
             <mxPoint x="695" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-44" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="Y1Lq8l-1mmM8_-CoOzVK-45">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-44" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.1;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-18" target="Y1Lq8l-1mmM8_-CoOzVK-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="684" y="1730" as="sourcePoint" />
             <mxPoint x="504" y="1730" as="targetPoint" />
@@ -330,6 +330,18 @@
             <mxPoint x="895" y="1849" as="sourcePoint" />
             <mxPoint x="815" y="1849" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-50" value="任务分配事件" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="Y1Lq8l-1mmM8_-CoOzVK-17">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="690" y="1090" as="sourcePoint" />
+            <mxPoint x="890" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-51" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.48;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-17" target="Y1Lq8l-1mmM8_-CoOzVK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1470" as="sourcePoint" />
+            <mxPoint x="790" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
