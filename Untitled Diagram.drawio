@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:26:22.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="YOvahtmStrmMuGvSQcHg" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T07:28:09.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="W6dL7hS6V_SA-uyVXAcG" version="14.8.1" type="github">
   <diagram id="I2_IZlxrCPJmqtHngIZY" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,13 +206,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-24" value="环境创建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="Y1Lq8l-1mmM8_-CoOzVK-11">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-24" value="评论环境创建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="Y1Lq8l-1mmM8_-CoOzVK-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="895" y="1240" as="sourcePoint" />
             <mxPoint x="815" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-26" value="获取环境" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="Y1Lq8l-1mmM8_-CoOzVK-15">
+        <mxCell id="Y1Lq8l-1mmM8_-CoOzVK-26" value="通知" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.1;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y1Lq8l-1mmM8_-CoOzVK-18" target="Y1Lq8l-1mmM8_-CoOzVK-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1260" as="sourcePoint" />
             <mxPoint x="510" y="1260" as="targetPoint" />
