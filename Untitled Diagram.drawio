@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T07:42:20.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cbso9HU2K9msPs6ZZn-D" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T07:50:31.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="wWBnyGCYQEwZ4rrYzAGl" version="14.8.4" type="github">
   <diagram id="I2_IZlxrCPJmqtHngIZY" name="Page-1">
-    <mxGraphModel dx="1178" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-46" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2320" width="163" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="1391.5" y="2447.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-49" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2329.25" width="140" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="bpDQ5_5XqcROET-1FKMb-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;dashed=1;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="2331.75" width="163" height="62.5" as="geometry" />
         </mxCell>
@@ -607,6 +616,73 @@
             <mxPoint x="640" y="2460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1024" y="2499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-42" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="2601.6" width="163" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-43" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.replication_controller;rounded=1;glass=0;dashed=1;sketch=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="1172.19" y="2614.83" width="39.62" height="36.05" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-44" value="DataVolume&lt;br&gt;Controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1221.81" y="2617.85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-47" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2337.25" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-48" value="ImageImporter&lt;br&gt;Pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2349.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-50" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pvc;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2453.5" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-52" value="PVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="2469.3500000000004" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-53" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="bpDQ5_5XqcROET-1FKMb-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="2360" as="sourcePoint" />
+            <mxPoint x="1400" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-54" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;dashed=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="2286.75" width="163" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-55" value="centos.qcow2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1093.5" y="2308" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.image;strokeColor=none;fillColor=#777777;aspect=fixed;rounded=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1053.5" y="2293" width="29.07" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-57" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpDQ5_5XqcROET-1FKMb-49" target="bpDQ5_5XqcROET-1FKMb-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2460" as="sourcePoint" />
+            <mxPoint x="960" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-58" value="disk.img" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="2410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-59" value="" style="endArrow=classic;html=1;exitX=0.995;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bpDQ5_5XqcROET-1FKMb-42" target="bpDQ5_5XqcROET-1FKMb-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2460" as="sourcePoint" />
+            <mxPoint x="960" y="2410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1462" y="2641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-60" value="Create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2613.95" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bpDQ5_5XqcROET-1FKMb-61" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.545;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bpDQ5_5XqcROET-1FKMb-22" target="bpDQ5_5XqcROET-1FKMb-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2460" as="sourcePoint" />
+            <mxPoint x="960" y="2410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="789" y="2420" />
+              <mxPoint x="1248" y="2420" />
             </Array>
           </mxGeometry>
         </mxCell>
